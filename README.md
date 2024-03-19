@@ -16,6 +16,7 @@ I love bringing my ideas to life through coding. Here are a few projects that sh
 
 - [**Blue Air**](https://github.com/Dewva/BlueAir_): An android app designed for booking flights and managing a flight company database. Developed in Android Studio in Java.
 - [**Taxi Dispatcher**](https://github.com/Dewva/TaxiDispatcher): A Spring Boot project that contains the back-end of a taxi dispatcher application. Tested using Postman.
+- [**Polynomial Calculator**](https://github.com/ebartha10/polynomialCalculator): Java application that focuses on Unit Testing, parameterized tests using JUnit Jupiter.
 - [**File Encryption**](https://github.com/Dewva/FileEncryptionASM): Assembly x86 console app that encrypts or decrypts given files using different techniques.
 - [**Train Ticket Machine**](https://github.com/LoredanaBln/Automat_bilete_de_tren_PSN): VHDL projects that simulates a ticket machine.
 - **Lua Projects**: 2 Roblox experiences published with over 4000 visits.
