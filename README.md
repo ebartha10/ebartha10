@@ -5,7 +5,7 @@
 🚀 I'm a passionate and curious computer science student on a journey to explore the vast and exciting world of technology.
 
 ## 💻 Skills
-- **Programming Languages**: C/C++, Java, Assembly x86, SQL, Lua
+- **Programming Languages**: C/C++, Java, Python, Dart, Assembly x86, SQL, Lua
 - **Tools**: Android Studio, Intellij, Adobe Photoshop
 - **Data Structures & Algorithms**: Actively participating in coding contests online and locally.
 ## 🎓 Academic Pursuits
