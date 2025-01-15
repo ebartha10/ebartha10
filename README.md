@@ -15,6 +15,7 @@ I am currently pursuing a degree in computer science at *Technical University of
 I love bringing my ideas to life through coding. Here are a few projects that showcase my skills and passion:
 
 - [**Blue Air**](https://github.com/Dewva/BlueAir_): An android app designed for booking flights and managing a flight company database. Developed in Android Studio in Java.
+- [**Urban Guide**](https://github.com/ebartha10/UrbanGuideFrontend): This Flutter application allows users to create personalized scheduled visits using the Google Maps API and connects to a Django backend for data management and scheduling. 
 - [**Taxi Dispatcher**](https://github.com/Dewva/TaxiDispatcher): A Spring Boot project that contains the back-end of a taxi dispatcher application. Tested using Postman.
 - [**Storage Management**](https://github.com/ebartha10/StorageManager): Java application that focuses on managing a relational database using reflection techniques.
 - [**Polynomial Calculator**](https://github.com/ebartha10/polynomialCalculator): Java application that focuses on Unit Testing, parameterized tests using JUnit Jupiter.
