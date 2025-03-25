@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hello, my name is Emeric<br>🚀 I'm a passionate and curious computer science student on a journey to explore the vast and exciting world of technology.<br><br>🎓 Academic Pursuits<br>I am currently pursuing a degree in computer science at Technical University of Cluj-Napoca.
 
+# ![](https://komarev.com/ghpvc/?username=ebartha10&style=for-the-badge)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emeric-arthur-bartha-183a14280) 
